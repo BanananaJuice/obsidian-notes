@@ -24,7 +24,7 @@ Thanks for visiting my page. I am Shailen Desai, a 25 years old soon to be quali
 
 **Current Occupation:** Audit Associate (EY),   
 
-[[Academic History and Work Experience]]
+[[content/Academic History and Work Experience|Academic History and Work Experience]]
 
 
 
