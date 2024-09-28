@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"33bf59cec3636e39","type":"text","text":"Target Encoding\n[[Encoding]]","x":-740,"y":80,"width":250,"height":80,"color":"4"},
+		{"id":"753a99012062b377","type":"text","text":"Decision Trees\n[[Decision Trees]]","x":-490,"y":240,"width":250,"height":60,"color":"4"},
+		{"id":"2c02768b772ff44e","type":"text","text":"AdaBoost\n[[AdaBoost]]","x":-200,"y":240,"width":250,"height":60,"color":"4"},
+		{"id":"05bebe18b99661d4","type":"text","text":"Bias and Variance [[Bias vs Variance]]","x":80,"y":240,"width":250,"height":60,"color":"4"},
+		{"id":"b4e45fbbe4ab48d5","type":"text","text":"Random Forest\n[[Random Forest]]","x":-240,"y":480,"width":250,"height":60,"color":"4"},
+		{"id":"f123c9000f4c082f","type":"text","text":"Final Machine Learning Project","x":-365,"y":-320,"width":250,"height":60},
+		{"id":"62cd89e4ca6649e0","type":"text","text":"Understanding CatBoost","x":-400,"y":-120,"width":250,"height":50,"color":"1"},
+		{"id":"b5da6007d0147ca1","type":"text","text":"XG Boost","x":-45,"y":70,"width":250,"height":50,"color":"2"},
+		{"id":"8d53f7fde2d7b24c","type":"text","text":"Gradient Boost\n[[Gradient Boost]]","x":-400,"y":80,"width":250,"height":50,"color":"2"}
+	],
+	"edges":[
+		{"id":"b97d0b969895a696","fromNode":"33bf59cec3636e39","fromSide":"top","toNode":"62cd89e4ca6649e0","toSide":"bottom"},
+		{"id":"c4269ed36f0b8e58","fromNode":"8d53f7fde2d7b24c","fromSide":"top","toNode":"62cd89e4ca6649e0","toSide":"bottom"},
+		{"id":"5051e678b40e883b","fromNode":"753a99012062b377","fromSide":"top","toNode":"8d53f7fde2d7b24c","toSide":"bottom"},
+		{"id":"42f6be62ee64277b","fromNode":"2c02768b772ff44e","fromSide":"top","toNode":"8d53f7fde2d7b24c","toSide":"bottom"},
+		{"id":"a66b50dece90b41a","fromNode":"05bebe18b99661d4","fromSide":"top","toNode":"8d53f7fde2d7b24c","toSide":"bottom"},
+		{"id":"ac616706d94ac3a8","fromNode":"753a99012062b377","fromSide":"bottom","toNode":"2c02768b772ff44e","toSide":"bottom"},
+		{"id":"4c05d225a337b5b7","fromNode":"753a99012062b377","fromSide":"bottom","toNode":"b4e45fbbe4ab48d5","toSide":"bottom"},
+		{"id":"4996f88d36a2e82b","fromNode":"b4e45fbbe4ab48d5","fromSide":"top","toNode":"2c02768b772ff44e","toSide":"bottom"},
+		{"id":"6cc41aa4faa75524","fromNode":"62cd89e4ca6649e0","fromSide":"top","toNode":"f123c9000f4c082f","toSide":"bottom"},
+		{"id":"d2b57d98374d7755","fromNode":"2c02768b772ff44e","fromSide":"top","toNode":"b5da6007d0147ca1","toSide":"bottom"},
+		{"id":"fe7bab318b667321","fromNode":"b5da6007d0147ca1","fromSide":"top","toNode":"62cd89e4ca6649e0","toSide":"bottom"},
+		{"id":"8e34d9f773e654a9","fromNode":"05bebe18b99661d4","fromSide":"top","toNode":"8d53f7fde2d7b24c","toSide":"bottom"}
+	]
+}
