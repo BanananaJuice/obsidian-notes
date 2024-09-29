@@ -12,7 +12,6 @@ Thanks for visiting my page. I am Shailen Desai, a 25 years old soon to be quali
 
 
 
-
 ## Bio
 **Full Name:** Shailen Ravi Desai
 
@@ -39,4 +38,4 @@ Feel free to reach me:
 
 **LinkedIn**:  [LinkedIn Link](https://www.linkedin.com/in/shailen-d-572300120/)
 
-**Instagram Handle**: @shailendesai123
+**Instagram:** @shailendesai123
