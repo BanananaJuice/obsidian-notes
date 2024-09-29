@@ -33,7 +33,7 @@ The results are presented through a geospatial visualization built in Power BI, 
 
 #### Detailed Notes
 
-[[Projects Folder/Optimal Area/Optimal Area - Project Outline]]
+[Projects Folder/Optimal Area/Optimal Area - Project Outline]
 
 ---
 
