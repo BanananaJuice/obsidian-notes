@@ -54,7 +54,7 @@ The following decision tree was created:
 As you can see, there are some cases where we get more than 1 output per leaf (R2,1). We will replace these two values with a singular average for this leaf (1500)
 
 Tree 1:
-![[Assets/Gradient_Boost_Decision_Tree_1.png|500]]
+![[Gradient_Boost_Decision_Tree_1.png|500]]
 
 
 ### 3. Update Predictions from Initial

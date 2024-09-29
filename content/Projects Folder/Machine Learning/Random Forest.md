@@ -28,6 +28,6 @@ The reason behind this is to create as many diverse decision trees as possible a
 We repeat the above process 100's or 1000's of times until we have a 'forest' of decision trees. We then use these decision trees to predict a new piece of data. We run the new data down all decision trees and use either a majority vote or average result (for regression problems) as the overall answer to our prediction.
 
 
-![[Assets/Random_Forest_Example.png]]
+![[Random_Forest_Example.png]]
 
 

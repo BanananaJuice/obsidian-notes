@@ -15,12 +15,12 @@ The issue with turning data into a classification tree is how to evaluate which 
 
 ### Example
 Below is an example of a decision tree built from data. We will now work backwards using statistical methods to decide in which order the questions should be asked to create the classification tree. For this we use Gini Impurity
-![[Assets/Building_Classificatio_Tree_Example.png]]
+![[Building_Classificatio_Tree_Example.png]]
 
 ### Gini Impurity
 Gini Impurity is a statical method used to quantify the #Purity  of a feature in predicting a specific class. Therefore you would use the feature with the lowest Gini Impurity as the #RootNode
 
-![[Assets/Gini_Impurity_Calculation.png]]
+![[Gini_Impurity_Calculation.png]]
 
 
 ### Terminology

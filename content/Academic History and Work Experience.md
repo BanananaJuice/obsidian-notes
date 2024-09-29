@@ -8,7 +8,7 @@ tags:
 
 ### EY (2021 - Current)
 
-![[Assets/ey_logo.png|300x180]]
+![[ey_logo.png|300x180]]
 ##### Audit Associate  (January 2021 -  Current)
 Working as an audit associate whilst studying towards my CA(SA).  Work consisted of executing and leading the audits of companies in the financial services and retail fields. Specific exposure gained in the operation and audit of Hedge Funds, Unit Trusts and other Investment Schemes
 
@@ -18,7 +18,7 @@ Working as an audit associate whilst studying towards my CA(SA).  Work consisted
 ## Academic History
 
 ### Stellenbosch University (2022 - 2024)
-![[Assets/stellenbosch.jpg|300x180]]
+![[stellenbosch.jpg|300x180]]
 
 #### Post Graduate Diploma in Accounting  (January 2021 -  December 2021)
 Completed my bachelors in accounting at Stellenbosch University with the following core modules
