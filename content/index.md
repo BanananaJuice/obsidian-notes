@@ -34,8 +34,15 @@ Thanks for visiting my page. I am Shailen Desai, a 25 years old soon to be quali
 
 Feel free to reach me:
 
-**Email**: shailendesai123@gmail.com
+![[gmail_logo.png|13]]**Email**: shailendesai123@gmail.com
 
-**LinkedIn**:  [LinkedIn Link](https://www.linkedin.com/in/shailen-d-572300120/)
+![[linkedin_logo.png|13]]**LinkedIn**:  [LinkedIn Link](https://www.linkedin.com/in/shailen-d-572300120/)
 
-**Instagram:** @shailendesai123
+![[instagram_logo.png|13]]**Instagram:** @shailendesai123
+
+
+
+
+
+#### Special Thanks
+Special thanks to [https://github.com/yugi01|Yugi01] for the technical help
