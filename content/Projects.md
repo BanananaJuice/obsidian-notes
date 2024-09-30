@@ -62,5 +62,5 @@ The primary goal was to complete the churn analysis, but the project also aimed 
 3. [[Projects Folder/Machine Learning/Bias vs Variance]]
 4. [[Projects Folder/Machine Learning/Encoding]]
 5. [[Projects Folder/Machine Learning/Random Forest]]
-6. [[Projects Folder/Machine Learning/AdaBoost]]]
+6. [[Projects Folder/Machine Learning/AdaBoost]]
 7. [[Projects Folder/Machine Learning/Gradient Boost]]
