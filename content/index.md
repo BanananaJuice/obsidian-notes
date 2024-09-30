@@ -1,6 +1,9 @@
 ---
 title: Welcome to my Homepage
 aliases:
+draft: false
+tags:
+  - example-tag
 ---
 
 
