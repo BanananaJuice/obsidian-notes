@@ -25,7 +25,7 @@ Thanks for visiting my page. I am Shailen Desai, a 25 years old soon to be quali
 
 [[Academic History and Work Experience]]
 
-hihi
+![[me.jpg]]
 
 ## Contact Info
 
