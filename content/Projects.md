@@ -40,7 +40,7 @@ The results are presented through a geospatial visualization built in Power BI, 
 ### Introduction to Machine Learning
 
 
-![[Assets/machine_diagram.png|500x300]]
+![[machine_diagram.png|500x300]]
 
 #### Summary
 
