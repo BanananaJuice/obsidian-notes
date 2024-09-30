@@ -45,4 +45,4 @@ Feel free to reach me:
 
 
 #### Special Thanks
-Special thanks to [https://github.com/yugi01|Yugi01] for the technical help
+Special thanks to [Yugi01](https://github.com/yugi01) for the technical help
