@@ -53,10 +53,16 @@ Throughout my journey, I found valuable resources, including Josh Starmer's _Sta
 
 While the primary goal was to complete the churn analysis, this project also serves as a practical resource for anyone looking to get started in machine learning.
 
+
 ### Technologies Used
 - Python
 - Scikit-Learn
 - Pandas
+
+### Final Project
+
+[[Projects Folder/Machine Learning/Final Project]]
+
 
 ### Detailed Notes
 
