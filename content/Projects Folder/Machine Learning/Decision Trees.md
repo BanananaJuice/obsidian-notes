@@ -2,7 +2,7 @@
 
 Definition: A decision tree makes a statement, and then makes a decision based on whether that statement is true or false.
 
-	![[Assets/Decision_Tree_Example.png]]
+	![[Decision_Tree_Example.png]]
 ### Types of decision trees
 There are namely two types of decision trees
 	1. [[Classification Trees]] - classifies things into categories. for example above

@@ -1,9 +1,8 @@
 ---
 title: Welcome to my Homepage
-aliases:
+aliases: 
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
 
 
@@ -26,7 +25,11 @@ Thanks for visiting my page. I am Shailen Desai, a 25 years old soon to be quali
 
 **Current Occupation:** Audit Associate (EY),   
 
-[[Academic History and Work Experience]]
+**Academic and Work Experience:** [[Academic History and Work Experience|Link]]
+
+**Projects**: [[Projects|Link]]
+
+
 
 ![[me.jpg]]
 
@@ -34,11 +37,11 @@ Thanks for visiting my page. I am Shailen Desai, a 25 years old soon to be quali
 
 Feel free to reach me:
 
-![[gmail_logo.png|13]]**Email**: shailendesai123@gmail.com
+![[gmail_logo.png|13]] **Email**: shailendesai123@gmail.com
 
-![[linkedin_logo.png|13]]**LinkedIn**:  [LinkedIn Link](https://www.linkedin.com/in/shailen-d-572300120/)
+![[linkedin_logo.png|25x25]]**LinkedIn**:  [LinkedIn Link](https://www.linkedin.com/in/shailen-d-572300120/)
 
-![[instagram_logo.png|13]]**Instagram:** @shailendesai123
+![[instagram_logo.png|25x25]]**Instagram:** @shailendesai123
 
 
 

@@ -1,8 +1,7 @@
 ---
 title: Projects
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
 ## Background
 
@@ -18,11 +17,13 @@ Below is a high level overview of external projects and academic endeavours I ha
 
 
 ### Summary
-The goal of this project was to model and identify the optimal areas to live in Cape Town, considering both work location and various quality-of-life factors sourced from census data.
+The objective of this project is to model and identify optimal living areas in Cape Town by considering both work location and various quality-of-life factors derived from census data.
 
-The model allows users to input their work location, which is then processed through the Google Maps API to calculate commute times to and from work for each suburb in Cape Town. This commuting data is integrated with a broader dataset that evaluates the quality of life in each postal code, using information scraped from government websites and South African Census data.
+Users can input their work location, which is then processed using the Google Maps API to calculate commute times to and from each suburb in Cape Town. This commuting data is integrated with a comprehensive dataset evaluating the quality of life across different postal codes, utilizing information gathered from government websites and South African Census data.
 
-The results are presented through a geospatial visualization built in Power BI, enabling users to easily identify the best areas to live based on their personal needs and preferences.
+The findings are presented through a geospatial visualization created in Power BI, enabling users to easily identify the most suitable areas to live based on their individual needs and preferences.
+
+This project draws inspiration from the work of [Lloyd Richards](https://www.linkedin.com/posts/lloydrichards_moving-house-like-an-actuary-collect-data-activity-7188109495196135424-g52l?utm_source=share&utm_medium=member_desktop), who effectively illustrated the application of data modeling in the context of real estate decisions.
 
 ### Technologies Used
 - Python
@@ -44,11 +45,13 @@ The results are presented through a geospatial visualization built in Power BI, 
 
 ### Summary
 
-This project marked my journey from having no prior experience to completing my first-ever machine learning project. I set an end goal of performing churn analysis on a publicly available telecommunications dataset and worked backward to identify the various aspects of statistics and coding I needed to learn along the way.
+This project marked my journey from having no prior experience to completing my first-ever machine learning project. Inspired by the article _[End-to-End Machine Learning Project: Churn Prediction](https://medium.com/@ramazanolmeez/end-to-end-machine-learning-project-churn-prediction-e9c4d0322ac9)_ by Ramazan Olmez, I set an end goal of performing churn analysis on a publicly available telecommunications dataset. I then worked backward to identify the various aspects of statistics and coding I needed to learn along the way.
 
-To organize my learning, I created a flow diagram outlining each key concept and skill, and I documented my notes for every stage. These notes cover the foundations of machine learning, statistics, and coding—designed not only to guide my own learning but also to help others who are eager to move beyond the hype and actually build their first machine learning project.
+To organize my learning, I created a flow diagram outlining each key concept and skill. I documented my notes for every stage, covering the foundations of machine learning, statistics, and coding. These notes were designed not only to guide my own learning but also to help others eager to move beyond the hype and actually build their first machine learning project.
 
-The primary goal was to complete the churn analysis, but the project also aimed to serve as a practical resource for anyone looking to get started in machine learning.
+Throughout my journey, I found valuable resources, including Josh Starmer's _Stats Quest_ videos on YouTube, which clarified many complex topics, and the article _[Gradient Boosting Algorithm: A Complete Guide for Beginners](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/)_ by Anshul Saini, which provided essential insights into one of the key algorithms I explored.
+
+While the primary goal was to complete the churn analysis, this project also serves as a practical resource for anyone looking to get started in machine learning.
 
 ### Technologies Used
 - Python
@@ -64,3 +67,5 @@ The primary goal was to complete the churn analysis, but the project also aimed 
 5. [[Projects Folder/Machine Learning/Random Forest]]
 6. [[Projects Folder/Machine Learning/AdaBoost]]
 7. [[Projects Folder/Machine Learning/Gradient Boost]]
+8. [[Cosine Similarity]]
+9. [[CatBoost]]
