@@ -34,7 +34,7 @@ This project draws inspiration from the work of [Lloyd Richards](https://www.lin
 
 ### Detailed Notes
 
-[Projects Folder/Optimal Area/Optimal Area - Project Outline]
+[[Projects Folder/Optimal Area/Optimal Area - Project Outline]]
 
 ---
 
