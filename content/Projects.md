@@ -13,7 +13,7 @@ Below is a high level overview of external projects and academic endeavours I ha
 
 ## Optimal Area Modelling
 
-![[Assets/optimal_areas.jpeg|500x300]]
+![[optimal_areas.jpeg|500x300]]
 
 
 ### Summary
