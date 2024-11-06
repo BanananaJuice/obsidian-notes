@@ -75,3 +75,32 @@ While the primary goal was to complete the churn analysis, this project also ser
 7. [[Projects Folder/Machine Learning/Gradient Boost]]
 8. [[Cosine Similarity]]
 9. [[CatBoost]]
+
+---
+
+## Volunteer Web Development
+
+![[Pasted image 20241106190431.png]]
+
+### Summary
+
+While volunteering with ObsCanFeedYou, I noticed a gap in tracking the impact we were making each weekend. Seeing an opportunity, I set out to create a custom website to help the team record and visualize the number of people fed weekly.
+
+Starting from scratch, I taught myself web development, covering both front-end and back-end skills. I built a database to store feeding data and developed a user-friendly interface to display weekly stats. To make data input easier for volunteers, I integrated WhatsApp using an API, allowing them to send a simple message to update the database.
+
+This project gave me hands-on experience in full-stack development, database management, and real-time communication—tools that help ObsCanFeedYou keep track of its impact in the community effortlessly.
+
+### Technologies Used
+
+- **Languages**: TypeScript, JavaScript, Python, SQL
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Next.js, Flask
+- **Database**: Supabase
+- **ORM**: Prisma
+- **Communication/API**: Vonage API for WhatsApp integration
+- **Hosting/Deployment**: Render, Vercel
+
+
+### Detailed Notes
+
+[[ObsCan Website - Project Outline]]
