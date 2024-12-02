@@ -104,3 +104,49 @@ This project gave me hands-on experience in full-stack development, database man
 ### Detailed Notes
 
 [[ObsCan Website - Project Outline]]
+
+---
+## Economic Analysis: India vs South Africa
+
+![[Economic Analaysis.png]]
+
+### Summary
+
+This project provides a comprehensive comparative analysis of the economies of India and South Africa, exploring their strengths, challenges, and growth potential. Key areas of focus include macroeconomic metrics, sectoral contributions, trade dynamics, foreign direct investment (FDI), and future outlooks.
+
+The analysis is built on detailed research, using data-driven insights from key indicators such as GDP, CPI, trade balances, and FDI inflows. The project examines the structural drivers of each economy, their respective challenges (e.g., policy stability, resource dependency, skill gaps), and their opportunities for innovation, growth, and reform.
+
+#### Work Performed:
+
+1. **Data Collection and Analysis:**
+    
+    - Compiled historical and current economic data for both countries from reliable sources.
+    - Evaluated metrics such as GDP trends, sector contributions, and trade balances.
+2. **Sectoral Insights:**
+    
+    - Assessed the dominant industries in each country, benchmarking key sectors like IT, mining, and manufacturing.
+    - Highlighted growth potential in emerging sectors such as renewable energy and advanced technologies.
+3. **Comparative FDI Analysis:**
+    
+    - Investigated FDI inflows, identifying drivers and challenges for attracting foreign investments.
+    - Analyzed policy impacts and economic conditions influencing investor confidence.
+4. **Trade Dynamics:**
+    
+    - Examined export-import profiles and major trading partners for both countries.
+    - Identified vulnerabilities and opportunities for trade diversification.
+5. **Future Outlook:**
+    
+    - Summarized strengths, weaknesses, and actionable opportunities for sustained growth in both economies.
+
+### Detailed Notes
+
+- [[Economic Analysis Project Outline]]
+- [[Macro Economic Overview]]
+- [[Sectoral Analysis]]
+- [[Stock Market Comparison]]
+- [[Trade and Foreign Investments]]
+- [[CPI]]
+- [[FDI vs FDP]]
+- [[Fiscal Debt]]
+- [[GDP]]
+- [[Purchasing Power Parity]]
